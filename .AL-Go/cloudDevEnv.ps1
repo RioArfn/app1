@@ -8,7 +8,7 @@ Param(
     [bool] $reuseExistingEnvironment,
     [switch] $fromVSCode
 )
-
+#my small edit
 $ErrorActionPreference = "stop"
 Set-StrictMode -Version 2.0
 
